@@ -1,0 +1,1 @@
+Using RabbitMQ.Client package for dotnet to publish messages over a queue where consumers can subscribe to
