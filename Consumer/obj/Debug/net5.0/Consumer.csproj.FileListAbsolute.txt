@@ -1,0 +1,17 @@
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.AssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\Consumer.exe
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\Consumer.deps.json
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\Consumer.runtimeconfig.json
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\Consumer.runtimeconfig.dev.json
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\Consumer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\ref\Consumer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\Consumer.pdb
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.csproj.CopyComplete
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\ref\Consumer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.pdb
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Consumer\obj\Debug\net5.0\Consumer.genruntimeconfig.cache

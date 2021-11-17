@@ -1,0 +1,17 @@
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\Producer.exe
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\Producer.deps.json
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\Producer.runtimeconfig.json
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\Producer.runtimeconfig.dev.json
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\Producer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\ref\Producer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\Producer.pdb
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.AssemblyInfoInputs.cache
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.AssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.csproj.CopyComplete
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\ref\Producer.dll
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.pdb
+C:\Users\Administrator.pc-PC\Documents\dotnet\RabbitMQ-ProducerConsumer\Producer\obj\Debug\net5.0\Producer.genruntimeconfig.cache
